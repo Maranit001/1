@@ -15,4 +15,4 @@
 <img src="1.jpg" alt="ITE103" width="330" height="300">
 
 <footer><h6>copyright@2025</h6></footer>
-</html>
+
