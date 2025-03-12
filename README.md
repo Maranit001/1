@@ -1,6 +1,6 @@
-#<!DOCTYPE html>
-<html>
-<head>
+
+
+
 <title>ITE103-HTML</title>
 </head>
 
