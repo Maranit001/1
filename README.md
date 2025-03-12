@@ -1,8 +1,6 @@
 
 
 
-<title>ITE103-HTML</title>
-</head>
 
 <body>
 <h1>The University of Cambodia</h1>
